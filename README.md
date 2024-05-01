@@ -23,6 +23,13 @@ You can customize your model in [`utils.py`](utils.py) file under the `create_mo
 
     python train.py
 
+
+
+https://github.com/bhaktiekhande/Voice-Gender-Detection/assets/120095410/8fb214ea-be8b-49d0-bb98-c82aad4f092a
+
+
+    
+
 # Testing
 
 [`test.py`](test.py) is the code responsible for testing your audio files or your voice:
