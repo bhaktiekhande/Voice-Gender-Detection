@@ -36,6 +36,17 @@ https://github.com/bhaktiekhande/Voice-Gender-Detection/assets/120095410/8fb214e
 
     python test.py 
 
+
+
+
+https://github.com/bhaktiekhande/Voice-Gender-Detection/assets/120095410/cb5129b3-6d2c-451f-ad3d-abaae9337ef8
+
+
+
+
+
+
+
 # **Output:**
 
     usage: test.py [-h] [-f FILE]
